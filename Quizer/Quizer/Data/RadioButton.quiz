@@ -1,0 +1,6 @@
+﻿Question=Press
+Option1=Radio
+Option2=Button
+Option3=Do not
+Answer=2
+Type=RadioButton

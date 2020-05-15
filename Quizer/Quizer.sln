@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quizer", "Quizer\Quizer.csproj", "{CEF51385-74A4-4F14-B06C-CB4C4721F461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEF51385-74A4-4F14-B06C-CB4C4721F461}.Debug|x86.ActiveCfg = Debug|x86
+		{CEF51385-74A4-4F14-B06C-CB4C4721F461}.Debug|x86.Build.0 = Debug|x86
+		{CEF51385-74A4-4F14-B06C-CB4C4721F461}.Release|x86.ActiveCfg = Release|x86
+		{CEF51385-74A4-4F14-B06C-CB4C4721F461}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
