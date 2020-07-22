@@ -155,10 +155,10 @@ namespace Quizer
             string text;
             switch (q.Type)
             {
-                case QuizType.TrueFalse: text = "Выберите ответ"; break;
-                case QuizType.CheckBox: text = "Выберите один или несколько ответов"; break;
-                case QuizType.RadioButton: text = "Выберите ответ"; break;
-                default: text = "Введите ответ"; break;
+                case QuizType.TrueFalse: text = "Select answer"; break;
+                case QuizType.CheckBox: text = "Select one or several answers"; break;
+                case QuizType.RadioButton: text = "Select answer"; break;
+                default: text = "Type in answer"; break;
             }
 
             Console.WriteLine(text);

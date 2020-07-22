@@ -29,6 +29,7 @@ namespace Quizer
 
             foreach (var quizIndex in quizer.QuizQueue)
             {
+                //TODO: what is this why is this
                 quizer.PrintQuestion(quizIndex);
                 var prevProgress = quizer.QuizList[quizIndex].Progress;
                 var answer =  quizer.GetInput(quizIndex);
